@@ -1,0 +1,15 @@
+Work flow:
+
+1) Consider the max n gram from the given words in the csv file.
+
+2) Generate words from the input patent upto 1 to n-grams
+
+3) Generate the features for each word in this list of 1 to n-grams.
+
+4) Give the features as the input to the CRF model along with the binary output of whether it is a chemical or not chemical based on the words given in the csv file. 
+
+5) Now do the same pre processing part for the test input patent as well and collect all the 1 to n-grams.
+
+6) And from the above model file we can decide whether this particular n-gram is a chemical entity or not. 
+
+
