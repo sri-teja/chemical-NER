@@ -4,15 +4,17 @@ import string
 from nltk.stem import WordNetLemmatizer
 wordnet_lemmatizer = WordNetLemmatizer()
 
-given_word = sys.argv[1]
-word_lemma = wordnet_lemmatizer.lemmatize(given_word)
-word_tag = nltk.pos_tag(given_word)
+import pre_processing
+
+#given_word = sys.argv[1]
+#word_lemma = wordnet_lemmatizer.lemmatize(given_word)
+#word_tag = nltk.pos_tag(given_word)
 
 
-exclude = set(string.punctuation)
+#exclude = set(string.punctuation)
 #print exclude
 
-def get_upper_lower_digit_count(str1):
+def get_features(str1):
 	u = 0
 	l = 0
 	c = 0
@@ -59,11 +61,12 @@ def get_upper_lower_digit_count(str1):
 			
 	return u, l, c, pun, case_pattern, valid, n_gram
 
-uppercase_count, lowercase_count, digit_count, has_punctuation, case_pattern, validity, n_gram = get_upper_lower_digit_count(given_word)
-
-
+features = []
+for i in word_n_grams:
+	#uppercase_count, lowercase_count, digit_count, has_punctuation, case_pattern, validity, n_gram = get_features(i)
+	features.append(get_features(i))
 #print uppercase_count
-
+print features
 		
 
 
