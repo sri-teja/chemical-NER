@@ -24,7 +24,7 @@ for i in sent_tokenize:
 
 word_n_grams = []
 word_n_grams_with_spaces = []
-max_n_gram_size =5
+max_n_gram_size =6
 for i in xrange(len(word_lemmas)-max_n_gram_size+1):
 	for j in xrange(max_n_gram_size):
 		#print ''.join(word_lemmas[i:i+j+1])

@@ -1,0 +1,44 @@
+Allylic Oxidation Catalyzed by Dirhodium(II) Tetrakis[ε-caprolactamate] of tert-Butyldimethylsilyl-protected trans-Dehydroandrosterone
+A. Dirhodium(II) tetrakis[ε-caprolactamate] acetonitrile solvate, Rh2(cap)4(CH3CN)2 (1). An oven-dried 250-mL, single-necked (24/40 joint) round-bottomed flask containing a Teflon-coated stir-bar is charged with dirhodium(II) tetraacetate (2.00 g, 4.5 mmol) (Note 1), e-caprolactam (11.84 g, 104.6 mmol) (Note 2), and dry chlorobenzene (110 mL) (Note 3). The flask is fitted with a Soxhlet extraction apparatus (Note 4) containing a thimble with 30 g of an oven-dried Na2CO3 and sand mixture in a 3:1 ratio (Note 5). An additional 50 mL of chlorobenzene is added to partially fill the thimble-chamber of the Soxhlet apparatus. The mixture is refluxed at 185 °C (external temperature) open to the atmosphere (Note 6), and after only 15 min the color of the solution turns from green to dark blue. After 10 h the vessel is removed from the oil bath, the Soxhlet extraction apparatus is removed, and the solvent is evaporated under reduced pressure using a rotary evaporator to yield a blue, glass-like solid residue. 2-Propanol (100 mL) (Note 7) is added to the same flask, and the solid residue is mixed vigorously with 2-propanol for 30 seconds using a metal spatula to dissolve chlorobenzene that is entrapped in the residue (Note 8). The 2-propanol is evaporated from the solid residue under reduced pressure to give a purple powder suitable for filtration (Note 9). Acetone (100 mL) is added to dissolve excess e-caprolactam contained in the powder, and the solid is gravity-filtered through a Büchner funnel and then washed with an additional 50 mL of acetone (Note 10). The filtered purple solid is transferred to a pre-weighed, 250-mL round-bottomed flask and dried under high vacuum (0.1 mmHg) for 1 h to yield 3.52 g of a dull purple powder (Note 11). To render the powder catalytically active (Note 12) the solid is recrystallized from 66 mL of boiling acetonitrile/methanol (10:1) (Note 13) to give 1.65 g (50% yield) of Rh2(cap)4(CH3CN)2 (1) (Note 14) as shiny deep purple crystals.
+B. Androst-5-en-17-one, 3-[[(1,1-dimethylethyl)dimethylsilyl]oxy]-, (3β)- preparation (3β). A 250-mL, single-necked (24/40 joint) Erlenmeyer flask is dried at about 200 °C under vacuum (0.01 mmHg) for approximately 10 min. The flask is charged under the atmosphere of dry nitrogen with 2 (5.00 g, 17.3 mmol) (Note 15) and 1H-imidazole (1.77 g, 26.0 mmol) (Note 16), followed by N,N-dimethylformamide (25.0 mL) (Note 17). The resulting suspension is sonicated at 20 °C with gentle swirling until homogeneous (Note 18). tert-Butyldimethylsilyl chloride (3.39 g, 22.5 mmol) (Note 19) is added as a solid to the reaction mixture. The flask is equipped with a magnetic stir bar (Note 20). After about 3 min of stirring, a white precipitate begins to form. The reaction is stirred for 30 min, at which time water (100 mL) is added to ensure complete product precipitation. The white clay-like substance is scraped from the glass walls of the Erlenmeyer flask, filtered under vacuum, and then dried overnight under vacuum (0.01 mmHg) at 20 °C to yield 6.83 g (98%) of 3 as a white powder (Note 21).
+C. (3β)-3-[[(1,1-dimethylethyl)dimethylsilyl]-oxy]-Androst-5-ene-7,17-dione (4). A 200-mL, Erlenmeyer flask (24/40 joint) containing a Teflon-coated magnetic stir bar is charged with 3 (8.04 g, 20.0 mmol), 1 (146 mg, 0.20 mmol, 1.00 mol %), and 1,2-dichloroethane (40 mL) (Note 22). The suspension is sonicated for 5 min at 20 °C with occasional gentle swirling (Note 18). After addition of T-HYDRO (14.3 mL, 99.5 mmol, 5.0 equiv) in one portion (Note 23), the flask containing the reaction mixture is equipped with a septum containing an outlet needle (Note 24) and its contents are stirred at 40 °C (external temperature) (Note 25). The color of the solution turns from purple to dark red after about 2 min following addition of T-HYDRO. After 24 h the mixture is concentrated on a rotary evaporator (30 °C, 10 mmHg) (Note 26). The product is purified by column chromatography (Note 27). Fractions containing the product are combined, and the solvent is evaporated under reduced pressure on a rotary evaporator (30 °C, 30 mmHg). The remaining white solid is dissolved in diethyl ether (20 mL) at room temperature. The solution is heated to 35 °C and then cooled to room temperature whereupon a white powder crystallizes from the solution. Diethyl ether is removed using a pipette. The above washing procedure is repeated twice. The resulting white powder is collected and dried overnight under reduced pressure at room temperature (60 °C, 4 mmHg) to yield 4 (5.50 g, 66 %) (Notes 28 and 29).
+V89P0019	S3	77	78	4	CLASS
+V89P0019	S1	1369	1376	Acetone	CLASS
+V89P0019	S1	1556	1563	acetone	CLASS
+V89P0019	S1	212	238	dirhodium(II) tetraacetate	CLASS
+V89P0019	S3	1073	1086	diethyl ether	CLASS
+V89P0019	S1	1414	1427	e-caprolactam	CLASS
+V89P0019	S1	540	553	chlorobenzene	CLASS
+V89P0019	S2	322	334	1H-imidazole	CLASS
+V89P0019	S2	378	399	N,N-dimethylformamide	CLASS
+V89P0019	S2	1048	1049	3	CLASS
+V89P0019	S1	1015	1025	2-Propanol	CLASS
+V89P0019	S3	731	738	T-HYDRO	CLASS
+V89P0019	T0	75	134	tert-Butyldimethylsilyl-protected trans-Dehydroandrosterone	CLASS
+V89P0019	S2	801	806	water	CLASS
+V89P0019	S3	3	75	(3β)-3-[[(1,1-dimethylethyl)dimethylsilyl]-oxy]-Androst-5-ene-7,17-dione	CLASS
+V89P0019	S3	245	263	1,2-dichloroethane	CLASS
+V89P0019	S2	286	287	2	CLASS
+V89P0019	S1	1179	1192	chlorobenzene	CLASS
+V89P0019	S1	1950	1951	1	CLASS
+V89P0019	S1	85	86	1	CLASS
+V89P0019	S1	1862	1874	acetonitrile	CLASS
+V89P0019	S1	1240	1250	2-propanol	CLASS
+V89P0019	S1	268	281	e-caprolactam	CLASS
+V89P0019	S3	206	207	1	CLASS
+V89P0019	S1	1875	1883	methanol	CLASS
+V89P0019	S3	183	184	3	CLASS
+V89P0019	S1	322	335	chlorobenzene	CLASS
+V89P0019	S2	87	88	3	CLASS
+V89P0019	T0	31	71	Dirhodium(II) Tetrakis[ε-caprolactamate]	CLASS
+V89P0019	S3	1441	1442	4	CLASS
+V89P0019	S1	1931	1948	Rh2(cap)4(CH3CN)2	CLASS
+V89P0019	S3	391	398	T-HYDRO	CLASS
+V89P0019	S2	518	550	tert-Butyldimethylsilyl chloride	CLASS
+V89P0019	S1	3	64	Dirhodium(II) tetrakis[ε-caprolactamate] acetonitrile solvate	CLASS
+V89P0019	S2	272	280	nitrogen	CLASS
+V89P0019	S1	66	83	Rh2(cap)4(CH3CN)2	CLASS
+V89P0019	S1	468	474	Na2CO3	CLASS
+V89P0019	S1	1119	1129	2-propanol	CLASS
+V89P0019	S2	3	73	Androst-5-en-17-one, 3-[[(1,1-dimethylethyl)dimethylsilyl]oxy]-, (3β)-	CLASS
+V89P0019	S3	1241	1254	Diethyl ether	CLASS

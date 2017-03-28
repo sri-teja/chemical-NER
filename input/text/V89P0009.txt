@@ -1,0 +1,29 @@
+Fluoride Ring-Opening Kinetic Resolution of Terminal Epoxides: Preparation of (S)-2-Fluoro-1-Phenylethanol
+(S)-2-Fluoro-1-phenylethanol. A 500-mL, single-necked, round-bottomed flask equipped with a magnetic stir bar (24 x 8 mm), (Note 1) is charged with (R,R)-(-)-N,N'-bis(3,5-di-tertbutylsalicylidene)-1,2-cyclohexanediaminocobalt(II) (1.51 g, 2.5 mmol, 0.025 equiv (Note 2). 1,5-Diazabicyclo[4.3.0]non-5-ene (247 μL, 2 mmol, 0.02 equiv (Note 3) and 1,1,1,3,3,3-hexafluoroisopropanol (8.66 mL, 82.5 mmol, 0.825 equiv) are added to the flask via syringe.The mixture is diluted with diethyl ether (250 mL (Note 4) to afford a dark brown solution and stirring is initiated at 500 rpm. Styrene oxide (11.4 mL, 100 mmol, 1.0 equiv (Note 5) and benzoyl fluoride (5.99 mL, 55 mmol, 0.55 equiv) are both added via syringe.The reaction is allowed to stir open to air for 15 min (Note 6) at room temperature (Note 7).The flask is then capped with a polyethylene cap and secured with Parafilm wrap (Note 8).The reaction is stirred at 500 rpm for 13-14 h at room temperature (Note 9), and then quenched by the addition of methanolic ammonia (7 N, 150 mL) via syringe (Note 10).The solution is allowed to stir for 2-3 h or until the disappearance of 1,1,1,3,3,3-hexafluoropropan-2-yl benzoate, as monitored by TLC (Notes 11 and 12).The reaction is then transferred to a 1-L separatory funnel (Note 13) and washed with aqueous 1M NaOH (3 x 200 mL). The combined aqueous portions are then extracted with diethyl ether (3 x 100 mL). The combined organic portions are dried over 10 g of anhydrous Na2SO4, filtered, and concentrated by rotary evaporator (25 °C, 100 mmHg, then 60 mmHg) to afford a dark brown oil.The crude product is charged onto a column (75 mm x 300 mm) packed with 200 g SiO2 (Note 14) as a slurry with hexanes.The loaded column is topped with a 1 cm layer of sand and 75 mL fractions are collected, eluting with 500 mL hexanes, 625 mL of 5% diethyl ether-hexanes, 625 mL of 10% diethyl ether-hexanes, 375 mL of 15% diethyl ether-hexanes, and then 1625 mL of 20% diethyl ether-hexanes. TLC is used to monitor the course of the column (Note 15).Fractions 39-56 are concentrated by rotary evaporation under vacuum (25 °C, 100 mmHg, then 60 mmHg) to provide (S)-2-fluoro-1-phenylethanol (5.8-5.9 g, 41-42% yield) as a brown oil (Note 16) in 98-98% enantiomeric excess (Note 17).
+V89P0009	S1	1384	1397	diethyl ether	CLASS
+V89P0009	T0	0	8	Fluoride	CLASS
+V89P0009	S1	1668	1672	SiO2	CLASS
+V89P0009	S1	2152	2180	(S)-2-fluoro-1-phenylethanol	CLASS
+V89P0009	S1	1913	1926	diethyl ether	CLASS
+V89P0009	S1	1817	1824	hexanes	CLASS
+V89P0009	T0	53	61	Epoxides	CLASS
+V89P0009	S1	577	590	Styrene oxide	CLASS
+V89P0009	S1	1853	1860	hexanes	CLASS
+V89P0009	S1	1890	1897	hexanes	CLASS
+V89P0009	S1	1974	1981	hexanes	CLASS
+V89P0009	S1	148	229	(R,R)-(-)-N,N'-bis(3,5-di-tertbutylsalicylidene)-1,2-cyclohexanediaminocobalt(II)	CLASS
+V89P0009	T0	78	106	(S)-2-Fluoro-1-Phenylethanol	CLASS
+V89P0009	S1	1700	1707	hexanes	CLASS
+V89P0009	S1	1475	1481	Na2SO4	CLASS
+V89P0009	S1	345	378	1,1,1,3,3,3-hexafluoroisopropanol	CLASS
+V89P0009	S1	476	489	diethyl ether	CLASS
+V89P0009	S1	1960	1973	diethyl ether	CLASS
+V89P0009	S1	1311	1315	NaOH	CLASS
+V89P0009	S1	1005	1023	methanolic ammonia	CLASS
+V89P0009	S1	1876	1889	diethyl ether	CLASS
+V89P0009	S1	1927	1934	hexanes	CLASS
+V89P0009	S1	1839	1852	diethyl ether	CLASS
+V89P0009	S1	1132	1174	1,1,1,3,3,3-hexafluoropropan-2-yl benzoate	CLASS
+V89P0009	S1	0	28	(S)-2-Fluoro-1-phenylethanol	CLASS
+V89P0009	S1	271	303	1,5-Diazabicyclo[4.3.0]non-5-ene	CLASS
+V89P0009	S1	634	650	benzoyl fluoride	CLASS

@@ -5,6 +5,7 @@ from nltk.stem import WordNetLemmatizer
 wordnet_lemmatizer = WordNetLemmatizer()
 
 from pre_processing import *
+from labeling import *
 
 #given_word = sys.argv[1]
 #word_lemma = wordnet_lemmatizer.lemmatize(given_word)
@@ -28,10 +29,10 @@ def get_features(str1):
 	if len(str1)>3:
 		valid = 1
 		n_gram = list("12345678")
-		n_gram[0] = str1[0]
-		n_gram[1] = str1[0:1]
-		n_gram[2] = str1[0:2]
-		n_gram[3] = str1[0:3]
+		n_gram[0] = str1[0:1]
+		n_gram[1] = str1[0:2]
+		n_gram[2] = str1[0:3]
+		n_gram[3] = str1[0:4]
 		n_gram[4] = str1[-1:]
 		n_gram[5] = str1[-2:]
 		n_gram[6] = str1[-3:]
@@ -61,25 +62,37 @@ def get_features(str1):
 		
 		if i in exclude and pun==0:
 		 	pun = 1
-			
-	return u, l, c, pun, case_pattern, valid, n_gram
+	if valid and len(case_pattern):			
+		return u, l, c, pun, case_pattern, n_gram
 
-features = []
+features = {}
 for i in word_n_grams:
 	
 	#uppercase_count, lowercase_count, digit_count, has_punctuation, case_pattern, validity, n_gram = get_features(i)
-	features.append(get_features(i))
+	l=get_features(i)
+	if l:
+		features[i] = list(l)
+	if i in ans_word_n_grams and i in features:
+		features[i].append(1)
+	elif i in features:
+		features[i].append(0)
 #print uppercase_count
 #print features
 		
 
-extract_file_name = str(''.join((sys.argv[1]).split('/')[0:-1])) + '/' + str(sys.argv[1]).split('/')[-1:][0].split('.')[0]+"_features.txt"
-f= open(extract_file_name,"w+")
+extract_file_name = str(''.join((sys.argv[1]).split('/')[0:-1])) + '/' + str(sys.argv[1]).split('/')[-1:][0].split('.')[0]+"_features.csv"
+f= open("inputtext/testfile.txt","wa")
 
-import pickle
-pickle.dump(features, f)
+for key,val in features.items():
+	f.write("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n".format(key.encode('utf-8'),val[0],val[1],val[2],val[3],val[4],val[5].encode('utf-8'),val[6]))
+
+#import pickle
+#pickle.dump(features, f)
 #f.write(word_n_grams)
 f.close()
+
+print features
+
 print "File with features created.\n"
 print "Program done.\n"
 

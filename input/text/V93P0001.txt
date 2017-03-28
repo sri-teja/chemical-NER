@@ -1,0 +1,35 @@
+DIBALH-Mediated Reductive Ring-Expansion Reaction of Cyclic Ketoxime
+A. 1-Indanone oxime. A 500-mL one-necked round-bottomed flask equipped with a Teflon-coated magnetic stir bar (3.5 x 1.5 cm) is charged with 1-indanone (13.2 g, 100 mmol) (Note 1), pyridine (50 mL) (Note 2), and hydroxylamine hydrochloride (7.30 g, 105 mmol, 1.05 equiv) (Note 3). After stirring for 20 min (500 rpm) at 50 °C (Note 4), the reaction mixture is cooled to ambient temperature and concentrated on a rotary evaporator under reduced pressure (20 °C, 1 mmHg) to remove pyridine. To the residue are added ethyl acetate (300 mL) and 1 M aqueous HCl (50 mL). After the mixture is partitioned, the aqueous layer is extracted with ethyl acetate (50 mL), and the combined organic extracts are washed with 1 M aqueous HCl (2 x 100 mL) and brine (100 mL). The organic layer is dried over Na2SO4 (40 g) and filtered through cotton wool. The filtrate is concentrated on a rotary evaporator under reduced pressure (20 °C, 16 mmHg) to afford 1-indanone oxime (Notes 5, 6 and 7) as a pale yellow solid (14.5 g, 99%).
+B. Tetrahydroquinoline. A 1-L oven-dried three-necked round-bottomed flask equipped with an overhead mechanical stirrer (paddle size: w = 8 cm, h = 1.5 cm), a 200-mL pressure-equalizing dropping funnel with a rubber septum, and a straight inlet adapter with a side arm 3-way stopcock fitted with an argon gas inlet and a thermometer (Figure 1) is charged with DIBALH (1.00 M in n-hexane, 199 mL, 199 mmol, 4.50 equiv) (Note 8) through the pressure-equalizing dropping funnel (Note 9). After the dropping funnel is replaced with a rubber septum, the solution is cooled to -16 ~ -11 °C (internal temperature) using a brine/ice bath. Figure 1. Reaction Assembly for Step B The rubber septum is removed, and 1-indanone oxime (6.50 g, 44.2 mmol) is added portionwise over 3 min with stirring (300 rpm) via a powder addition funnel, while keeping the internal temperature below 22 °C. The funnel is washed with distilled hexanes (5 mL), and the septum is fitted to the flask. After stirring for 5 min, the reaction mixture is warmed to ambient temperature and stirred for 2.5 h (Note 10). The paddle of the overhead mechanical stirrer is washed with distilled hexanes (10 mL) and removed (Note 11). The mixture is cooled to 2-3 °C (internal temperature) with an ice bath and gradually poured into saturated aqueous Rochelle salt (400 mL, precooled to 3 °C using an ice bath) (Note 12) in a 2-L three-necked round-bottomed flask with stirring (300 rpm) using an overhead mechanical stirrer (paddle size: w = 8 cm, h = 1.5 cm), while keeping the internal temperature below 30 °C. After the mixture is transferred to the flask with the aid of ethyl acetate (50 mL), the mixture is warmed to ambient temperature and stirred for 3.5 h. The resulting two-phase solution is partitioned, and the aqueous phase is extracted with ethyl acetate (2 x 100 mL). The combined organic extracts are washed with brine (200 mL), dried over Na2SO4 (40 g), and filtered through cotton wool. The filtrate is concentrated on a rotary evaporator under reduced pressure (20 °C, 16 mmHg), and the resulting residual oil is dried in vacuo for 2 h in a desiccator (20 °C) (Note 13) to afford 5.95-5.96 g of a pale yellow liquid, which is purified by silica gel column chromatography (hexanes-ethyl acetate = 13:1) (Notes 14 and 15). The fractions containing the product are collected and concentrated on a rotary evaporator under reduced pressure (40 °C, 16 mmHg), and the residual oil is dried in vacuo for 3.5 h in a desiccator (20 °C) to yield tetrahydroquinoline as a pale yellow oil (5.08 g, 86%) (Note 16 and 17).
+V93P0001	S1	3	19	1-Indanone oxime	CLASS
+V93P0001	S2	1359	1362	ice	CLASS
+V93P0001	S2	1915	1921	Na2SO4	CLASS
+V93P0001	S2	2513	2532	tetrahydroquinoline	CLASS
+V93P0001	S1	940	950	1-indanone	CLASS
+V93P0001	S1	141	151	1-indanone	CLASS
+V93P0001	S2	1154	1161	hexanes	CLASS
+V93P0001	S1	181	189	pyridine	CLASS
+V93P0001	S1	636	649	ethyl acetate	CLASS
+V93P0001	S1	479	487	pyridine	CLASS
+V93P0001	S1	721	724	HCl	CLASS
+V93P0001	S2	2250	2257	hexanes	CLASS
+V93P0001	S2	3	22	Tetrahydroquinoline	CLASS
+V93P0001	S2	1814	1827	ethyl acetate	CLASS
+V93P0001	S1	790	796	Na2SO4	CLASS
+V93P0001	T0	53	68	Cyclic Ketoxime	CLASS
+V93P0001	S2	299	304	argon	CLASS
+V93P0001	S2	1256	1259	ice	CLASS
+V93P0001	S2	2258	2271	ethyl acetate	CLASS
+V93P0001	S1	553	556	HCl	CLASS
+V93P0001	S2	360	366	DIBALH	CLASS
+V93P0001	S2	621	624	ice	CLASS
+V93P0001	S1	514	527	ethyl acetate	CLASS
+V93P0001	S2	704	720	1-indanone oxime	CLASS
+V93P0001	S2	1309	1322	Rochelle salt	CLASS
+V93P0001	S2	915	922	hexanes	CLASS
+V93P0001	S2	2216	2226	silica gel	CLASS
+V93P0001	S2	378	386	n-hexane	CLASS
+V93P0001	S2	1634	1647	ethyl acetate	CLASS
+V93P0001	T0	0	6	DIBALH	CLASS
+V93P0001	S1	212	239	hydroxylamine hydrochloride	CLASS
+V93P0001	S1	940	956	1-indanone oxime	CLASS

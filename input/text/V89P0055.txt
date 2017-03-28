@@ -1,0 +1,53 @@
+Dibenzo[a,e]cyclooctene: Multi-gram Synthesis of a Bidentate Ligand
+A. 5,6,11,12-Tetrahydrodibenzo[a,e]cyclooctene (1). A 1-L, three-necked round-bottomed flask, equipped with a 4-cm egg-shaped magnetic stirring bar, a reflux condenser, an internal thermometer and a 250-mL pressure-equalizing dropping funnel (capped with a rubber septum), is flame-dried and purged with argon. Degassed THF (200 mL) (Note 1) is added and subsequently granular lithium (6.63 g, 956 mmol, 2.5 equiv) (Note 2). The dropping funnel is charged with a solution of freshly sublimed α,α'-dibromo-o-xylene (101 g, 382 mmol) in degassed THF (150 mL) (Note 3). This solution is then added dropwise to the stirred suspension of granular lithium over a period of 1.5 h, which begins to reflux after 20 min. During the period of addition the internal temperature of the mixture is kept between 65 °C and 70 °C (Note 4). After complete addition, the mixture is refluxed for 2 h (oil bath) until TLC-analysis indicates complete consumption of the substrate (Notes 5, 6 and 7). The reaction mixture is allowed to cool to room temperature and is then, for removal of residual lithium, filtered through a fritted glass funnel (5.0 cm diameter, porosity 0). The funnel is subsequently rinsed with THF (100 mL) (Note 1). The filtrate is concentrated by rotary evaporation at a bath temperature of 40 °C (255-225 mmHg) and then at 50 °C (7.5 mmHg) for 1 h in order to remove THF (Note 8). Dichloromethane (700 mL) is added to the residue. After stirring for 2 min, insoluble material (Note 9) is removed by filtration with a fritted glass funnel (8.0 cm diameter, porosity 4) filled with silica gel (100 g) (Note 10). The residue is washed with dichloromethane (700 mL) and the filtrate dried over Na2SO4 (50 g). The latter is removed by filtration and the filtrate concentrated at 40 °C by rotary evaporation (675-525 mmHg and then 15 mmHg) for 1 h. The crude product remains as a pale yellow semifluidic mass (40.5 g), which solidifies under vacuum overnight (25 °C, 0.3 mmHg). Finally, the product is purified by Kugelrohr distillation (air bath temperature 130-175 °C, 0.25 mmHg) (Note 11) to yield pure 1 (19.6 g, 49%) as colorless plates (Note 12).
+B. 5,11-Dibromo-5,6,11,12-tetrahydrodibenzo[a,e]-cyclooctene (2).Under an atmosphere of argon in a flame-dried, 500-mL, three-necked round-bottomed flask, equipped with a reflux condensor and a 4-cm egg-shaped magnetic stirring bar, 1 (19.2 g, 92.3 mmol) is dissolved in carbon tetrachloride (200 mL) (Note 13). NBS (35.3 g, 198.4 mmol, 2.15 equiv) (Notes 14 and 15) is added, and the stirred mixture is then refluxed at 85 °C (oil bath temperature). After 2 h NMR analysis (Note 16) indicates complete consumption of the starting material 1 (Note 17). The hot suspension (65 °C) is filtered through a fritted glass funnel (8.0 cm diameter, porosity 3), and the remaining succinimide is washed with carbon tetrachloride (400 mL) (Note 18). The solvent of the filtrate is evaporated under gradually reduced pressure (40 °C, 225 to 18 mmHg). A pale yellow residue remains, which is scraped off the inner wall of the flask, poured into a fritted glass funnel (7.0 cm diameter, porosity 3), washed with distilled water (300 mL) and dried overnight under vacuum (25 °C, 0.3 mmHg) to give 35.4 g of crude 2 as a pale yellow solid (Note 19).
+C. Dibenzo[a,e]cyclooctene (3). Under an atmosphere of argon in a flame-dried, 250-mL, single-necked round-bottomed flask equipped with a magnetic stirring bar, 2 (34.1 g crude product) is dissolved in THF (150 mL) (Note 1). Under an atmosphere of argon in a second flame-dried, 500-mL, single-necked round-bottomed flask equipped with a magnetic stirring bar, potassium tert-butoxide (41.6 g, 371 mmol, 4 equiv, assuming 100% purity of 2) (Note 20) is dissolved in THF (100 mL) (Note 1). The resulting cloudy solution is then cooled with an ice bath. At 0 °C the solution of 2 is transferred through a teflon tube (1.5 mm internal diameter) over a period of 15 min into the 500-mL flask. During the period of addition the color changes from orange to brown and finally to black. Then the ice bath is removed, the mixture is allowed to warm to room temperature and is stirred for 2 h until TLC-analysis indicates complete consumption of the dibromide 2 (Notes 21 and 22). Distilled water (15 mL) is added and the black mixture is poured onto a pad of silica gel (diameter 10 cm x 4 cm height) that has already been wetted with diethyl ether. The pad is rinsed with 700 mL of diethyl ether, and the eluent is collected directly as a single fraction, dried over Na2SO4 (40 g), filtered and concentrated at 40 °C by rotary evaporation (675 to 75 mmHg) and then at 15 mmHg for 1 h. The crude product remains as a brown solid (18.5 g) (Note 23), which is scraped off the inner wall of the flask and dried overnight under vacuum (25 °C, 0.3 mmHg). Purification by Kugelrohr distillation (air bath temperature 130-145 °C, 0.2 mmHg) (Note 24, 25) affords 13.0 g (69%, two steps from 1) of dibenzo[a,e]cyclooctene (3) as colorless plates (Note 26).
+V89P0055	S3	1260	1266	Na2SO4	CLASS
+V89P0055	S1	3	46	5,6,11,12-Tetrahydrodibenzo[a,e]cyclooctene	CLASS
+V89P0055	S1	1693	1699	Na2SO4	CLASS
+V89P0055	S3	202	205	THF	CLASS
+V89P0055	S3	576	577	2	CLASS
+V89P0055	S1	320	323	THF	CLASS
+V89P0055	S3	542	545	ice	CLASS
+V89P0055	S3	789	792	ice	CLASS
+V89P0055	S3	1175	1188	diethyl ether	CLASS
+V89P0055	S3	982	987	water	CLASS
+V89P0055	S1	1075	1082	lithium	CLASS
+V89P0055	S1	1384	1399	Dichloromethane	CLASS
+V89P0055	S2	3	60	5,11-Dibromo-5,6,11,12-tetrahydrodibenzo[a,e]-cyclooctene	CLASS
+V89P0055	S3	1681	1704	dibenzo[a,e]cyclooctene	CLASS
+V89P0055	S3	1051	1061	silica gel	CLASS
+V89P0055	S3	1361	1362	1	CLASS
+V89P0055	S3	941	950	dibromide	CLASS
+V89P0055	S1	492	513	α,α'-dibromo-o-xylene	CLASS
+V89P0055	S3	55	60	argon	CLASS
+V89P0055	S2	672	683	succinimide	CLASS
+V89P0055	S3	951	952	2	CLASS
+V89P0055	S3	466	469	THF	CLASS
+V89P0055	S1	1640	1655	dichloromethane	CLASS
+V89P0055	S1	48	49	1	CLASS
+V89P0055	S3	248	253	argon	CLASS
+V89P0055	S1	544	547	THF	CLASS
+V89P0055	S1	1194	1197	THF	CLASS
+V89P0055	S2	325	326	1	CLASS
+V89P0055	S3	437	438	2	CLASS
+V89P0055	S3	361	384	potassium tert-butoxide	CLASS
+V89P0055	S2	699	719	carbon tetrachloride	CLASS
+V89P0055	S2	88	93	argon	CLASS
+V89P0055	S1	377	384	lithium	CLASS
+V89P0055	S1	642	649	lithium	CLASS
+V89P0055	S3	3	26	Dibenzo[a,e]cyclooctene	CLASS
+V89P0055	S3	1127	1140	diethyl ether	CLASS
+V89P0055	S2	312	315	NBS	CLASS
+V89P0055	S2	62	63	2	CLASS
+V89P0055	S2	1058	1059	2	CLASS
+V89P0055	S1	1583	1593	silica gel	CLASS
+V89P0055	T0	0	23	Dibenzo[a,e]cyclooctene	CLASS
+V89P0055	S2	1009	1014	water	CLASS
+V89P0055	S1	1370	1373	THF	CLASS
+V89P0055	S2	271	291	carbon tetrachloride	CLASS
+V89P0055	S3	79	80	2	CLASS
+V89P0055	S3	28	29	3	CLASS
+V89P0055	S1	304	309	argon	CLASS
+V89P0055	S1	1828	1829	1	CLASS
+V89P0055	S3	1706	1707	3	CLASS

@@ -1,0 +1,21 @@
+Synthesis of 5-(Hydroxymethyl)furfural (HMF)
+5-(Hydroxymethyl)furfural (2). A 500-mL single-necked, round-bottomed flask equipped with a 3.5-cm ellipsoidal magnetic stir bar is charged with tetraethylammonium bromide (45 g, 214 mmol) (Note 1), distilled water (5 mL) and fructose (1) (10 g, 0.056 mol) (Note 2). The flask is placed in an oil bath at 100 °C. The reaction temperature is monitored by a thermometer placed inside the reaction mixture. When the internal temperature reaches 90 °C (Note 3), Amberlyst® 15 (1 g, 10%w/w) (Note 4) is added. The stirring is continued for 15 min, during which time the internal temperature reaches 96-98 °C and the color of the reaction mixture turns brown (Note 5). After this period the flask is removed from the heat source and the solution separated from the Amberlyst® 15 by decantation of the hot solution into a 2-L single-necked round-bottomed flask (Note 6). Absolute ethanol (20-30 mL) is used to wash the catalyst after the transfer, and the ethanol is added to the aqueous solution. The reaction mixture is placed on a rotary evaporator for 1 h (15 mmHg, 50 °C) (Note 7). A 3.5-cm ellipsoidal magnetic stir bar is added, and the residue is dissolved in hot absolute anhydrous ethanol (25 mL), which is followed by immediate addition of ethyl acetate (1.5 L) under vigorous stirring. Immediate precipitation of the tetraethylammonium bromide is observed, and the mixture is cooled down to room temperature. The precipitate is vacuum-filtered through a fritted filter and the cake rinsed with ethyl acetate (100 mL) (Note 8). The collected filtrate is vacuum-filtered through a pad of silica gel (30 g) using a fritted filter, and the silica gel is rinsed with ethyl acetate (100 mL) (Notes 9 and 10). The filtrate is concentrated by rotary evaporation (32 °C, 15 mmHg). The oily residue is transferred into a 50 mL single-necked round-bottomed flask and the residual organic solvent is removed in vacuo (0.5 mmHg). The title compound is obtained as deeply orange liquid (5.8-6.1 g, 83-87%) and 90-92% purity (Note 11). Flash column chromatography (Note 12) was applied to give the title compound as an orange liquid (5.5 g, 79%) with 97% purity (Notes 13, 14 and 15). Figure 1. Reaction Assembly
+V93P0029	S1	1499	1512	ethyl acetate	CLASS
+V93P0029	S1	209	214	water	CLASS
+V93P0029	S1	1641	1651	silica gel	CLASS
+V93P0029	S1	1244	1257	ethyl acetate	CLASS
+V93P0029	S1	0	25	5-(Hydroxymethyl)furfural	CLASS
+V93P0029	S1	458	471	Amberlyst® 15	CLASS
+V93P0029	S1	1322	1348	tetraethylammonium bromide	CLASS
+V93P0029	S1	226	234	fructose	CLASS
+V93P0029	S1	1591	1601	silica gel	CLASS
+V93P0029	S1	145	171	tetraethylammonium bromide	CLASS
+V93P0029	S1	1667	1680	ethyl acetate	CLASS
+V93P0029	S1	759	772	Amberlyst® 15	CLASS
+V93P0029	S1	873	880	ethanol	CLASS
+V93P0029	S1	949	956	ethanol	CLASS
+V93P0029	S1	236	237	1	CLASS
+V93P0029	S1	1184	1191	ethanol	CLASS
+V93P0029	T0	40	43	HMF	CLASS
+V93P0029	T0	13	38	5-(Hydroxymethyl)furfural	CLASS
+V93P0029	S1	27	28	2	CLASS

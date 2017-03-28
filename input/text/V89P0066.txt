@@ -1,0 +1,14 @@
+Anhydrous Hydration of Nitriles to Amides: p-Carbomethoxybenzamide
+A. p-Carbomethoxylbenzamide. A 100-mL single-necked, round-bottomed flask that is equipped with a magnetic stirring bar (round, 5 x 15 mm), a reflux condenser and Argon bubbler is charged with the following order of the reagents: methyl p-cyanobenzoate (5.0 g, 31 mmol) (Note 1), toluene (9.5 mL) (Note 2), Wilkinson's catalyst (145 mg, 0.16 mmol, 0.5 mol%) (Note 3), and acetaldoxime (9.2 g, 9.5 mL, 156 mmol, 5.0 equiv) (Notes 4 and 5). The reaction mixture is heated to reflux with an oil bath (bath temperature 130 ºC) for 4 h and then is allowed to cool down to room temperature (Notes 6 and 7). The reaction mixture is concentrated under reduced pressure on rotary evaporator (20-30 mmHg, bath temperature 40-45 ºC). Water (20 mL) is added to the concentrate and the mixture is heated with an oil bath (90~100 °C bath temperature) under air for 1 h and cooled down to room temperature (Note 8). The resulting mixture is filtered through a Büchner funnel. The solid product is washed with water (40 ml). The solid is transferred to a 50-mL round-bottomed flask and dried under vacuum (0.1 mmHg) to afford 5.1 g (92%) of p-carbomethoxylbenzamide (Notes 9 and 10) as a white solid.
+V89P0066	S1	307	327	Wilkinson's catalyst	CLASS
+V89P0066	S1	372	384	acetaldoxime	CLASS
+V89P0066	T0	35	41	Amides	CLASS
+V89P0066	S1	3	27	p-Carbomethoxylbenzamide	CLASS
+V89P0066	S1	994	999	water	CLASS
+V89P0066	T0	23	31	Nitriles	CLASS
+V89P0066	S1	1125	1149	p-carbomethoxylbenzamide	CLASS
+V89P0066	S1	280	287	toluene	CLASS
+V89P0066	S1	723	728	Water	CLASS
+V89P0066	T0	43	66	p-Carbomethoxybenzamide	CLASS
+V89P0066	S1	163	168	Argon	CLASS
+V89P0066	S1	230	252	methyl p-cyanobenzoate	CLASS
