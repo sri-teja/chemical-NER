@@ -135,10 +135,10 @@ ELEMENTS = {
     118: 'uo',
 }
 
-with open('chemtionary.txt') as f:
-	content = f.readlines()
+#with open('chemtionary.txt') as f:
+#	content = f.readlines()
 
-chemtionary = content 
+#chemtionary = content 
 print "*********** Creating the features for each word **********"
 def get_features(str1):
 	u = 0
@@ -193,12 +193,12 @@ def get_features(str1):
 		if i in exclude and pun==0:
 		 	pun = 1
 
-		if ''.join(e for e in str1 if e.isalpha()) in chemtionary:
-			pid = 1
-		else:
-			pid = 0
+		#if ''.join(e for e in str1 if e.isalpha()) in chemtionary:
+		#	pid = 1
+		#else:
+		#	pid = 0
 	if valid and len(case_pattern):			
-		return u, l, c, pun, case_pattern, n_gram, molecular_score, pid
+		return u, l, c, pun, case_pattern, n_gram, molecular_score
 
 features = {}
 for i in word_n_grams:
@@ -215,21 +215,20 @@ for i in word_n_grams:
 #print features
 		
 
-extract_file_name = str(''.join((sys.argv[1]).split('/')[0:-1])) + '/' + str(sys.argv[1]).split('/')[-1:][0].split('.')[0]+"_features.csv"
-f= open("inputtext/trainfile.txt","wa")
+#extract_file_name = str(''.join((sys.argv[1]).split('/')[0:-1])) + '/' + str(sys.argv[1]).split('/')[-1:][0].split('.')[0]+"_features.csv"
+f= open(sys.argv[2],"wa")
 
 for key,val in features.items():
-	f.write("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n".format(key.encode('utf-8'),val[0],val[1],val[2],val[3],val[4],val[5].encode('utf-8'),val[6], val[7], val[8]))
+	f.write("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n".format(key.encode('utf-8'),val[0],val[1],val[2],val[3],val[4],val[5].encode('utf-8'),val[6], val[7]))
 
 #import pickle
 #pickle.dump(features, f)
 #f.write(word_n_grams)
 f.close()
 
-print features
+#print features
 
 print "File with features created.\n"
-print "Program done.\n"
 
 
 

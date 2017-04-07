@@ -32,13 +32,12 @@ for i in xrange(len(word_lemmas)-max_n_gram_size+1):
 		word_n_grams.append(''.join(word_lemmas[i:i+j+1]))
 
 #print word_n_grams
-extract_file_name = str(''.join((sys.argv[1]).split('/')[0:-1])) + '/' + str(sys.argv[1]).split('/')[-1:][0].split('.')[0]+"_n_grams.txt"
-f= open(extract_file_name,"w+")
+#extract_file_name = str(''.join((sys.argv[1]).split('/')[0:-1])) + '/' + str(sys.argv[1]).split('/')[-1:][0].split('.')[0]+"_n_grams.txt"
+#f= open(extract_file_name,"w+")
 
-import pickle
-pickle.dump(word_n_grams, f)
+#import pickle
+#pickle.dump(word_n_grams, f)
 #f.write(word_n_grams)
 
-f.close()
-print "File with n_grams created.\n"
-print "Program done.\n"
+#f.close()
+print "n_grams created.\n"
