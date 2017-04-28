@@ -3,9 +3,11 @@ from xml.etree.ElementTree import ElementTree
 tree = ElementTree()
 itree = tree.parse(sys.argv[1])
 
-print itree.findall("{http://www.ncbi.nlm.nih.gov}PC-Compound")
+sys.stdout.write(len(itree.findall("{http://www.ncbi.nlm.nih.gov}PC-Compound")))
 #print tree.findall('PC-Compounds')
-for compound in itree.findall("{http://www.ncbi.nlm.nih.gov}PC-Compound"):
+for leng,compound in enumerate(itree.findall("{http://www.ncbi.nlm.nih.gov}PC-Compound")):
+	if leng%100000==0:
+		sys.stdout.write(leng)
 	for info_data in compound.findall("{http://www.ncbi.nlm.nih.gov}PC-Compound_props/{http://www.ncbi.nlm.nih.gov}PC-InfoData"):
 		label = info_data.find("{http://www.ncbi.nlm.nih.gov}PC-InfoData_urn/{http://www.ncbi.nlm.nih.gov}PC-Urn/{http://www.ncbi.nlm.nih.gov}PC-Urn_label").text
 		name = ""

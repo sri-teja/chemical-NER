@@ -2,6 +2,9 @@ import nltk
 import sys
 import string
 from nltk.stem import WordNetLemmatizer
+#from joblib import Parallel, delayed
+#import multiprocessing
+
 wordnet_lemmatizer = WordNetLemmatizer()
 
 from pre_processing import *
@@ -198,28 +201,34 @@ def get_features(str1):
 		#else:
 		#	pid = 0
 	if valid and len(case_pattern):			
-		return u, l, c, pun, case_pattern, n_gram, molecular_score
+		l=[str1,u, l, c, pun, case_pattern, n_gram, molecular_score]
+		if i in ans_word_n_grams and i in features:
+			l.append(1)
+		elif i in features:
+			l.append(0)
+		return l
 
-features = {}
-for i in word_n_grams:
+
+#for i in word_n_grams:
 	
 	#uppercase_count, lowercase_count, digit_count, has_punctuation, case_pattern, validity, n_gram = get_features(i)
-	l=get_features(i)
-	if l:
-		features[i] = list(l)
-	if i in ans_word_n_grams and i in features:
-		features[i].append(1)
-	elif i in features:
-		features[i].append(0)
+#	l=get_features(i)
+#	if l:
+#		features[i] = list(l)
+#	if i in ans_word_n_grams and i in features:
+#		features[i].append(1)
+#	elif i in features:
+#		features[i].append(0)
 #print uppercase_count
 #print features
 		
 
 #extract_file_name = str(''.join((sys.argv[1]).split('/')[0:-1])) + '/' + str(sys.argv[1]).split('/')[-1:][0].split('.')[0]+"_features.csv"
 f= open(sys.argv[2],"wa")
-
-for key,val in features.items():
-	f.write("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n".format(key.encode('utf-8'),val[0],val[1],val[2],val[3],val[4],val[5].encode('utf-8'),val[6], val[7]))
+for i in word_n_grams:
+	features= get_features(i)
+	for val in features:
+		f.write("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n".format(key.encode('utf-8'),val[0],val[1],val[2],val[3],val[4],val[5].encode('utf-8'),val[6], val[7]))
 
 #import pickle
 #pickle.dump(features, f)
